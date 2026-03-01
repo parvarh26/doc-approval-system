@@ -1,4 +1,4 @@
-# Document Approval & Stamping System
+# DocuSeal - Document Approval & Stamping System
 
 A role-based Full Stack document approval system where Users submit PDFs, Reviewers approve/reject them, and approved documents automatically receive an "APPROVED" visual stamp watermark directly on the PDF. 
 
